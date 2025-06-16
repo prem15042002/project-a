@@ -1,0 +1,57 @@
+
+select.form-select {
+    border: 1px solid #e7e7e7 !important; 
+    border-radius: 10px;
+    padding: 5px;
+}
+.form-control-1{
+    border: 1px solid #e7e7e7 !important;
+    width: 250px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.form-control-2{
+    border: 1px solid #e7e7e7 !important;
+    width: 150px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.form-container {
+    margin: 10px;
+
+}
+.form-control-3{
+    border: 1px solid #e7e7e7 !important;
+   
+    border-radius: 10px;
+    padding: 5px;
+}
+.btn-secondary{
+    background-color: #313740;
+    color: white;
+}
+
+
+
+
+
+
+/* .card {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    margin: 20px auto; 
+    width: fit-content; 
+} */
+
+
+
+
+
+
+
+
+
+
+
+
